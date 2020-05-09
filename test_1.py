@@ -1,2 +1,2 @@
-print("Koza hi! Kaban Akaban")
+print("Koza hi! Kaban Akaban!")
 #git rm -r --cached .

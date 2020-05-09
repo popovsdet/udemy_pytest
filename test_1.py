@@ -1,1 +1,1 @@
-print("Koza hi!")
+print("Koza hi! Kaban")

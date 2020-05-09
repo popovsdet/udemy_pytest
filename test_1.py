@@ -1,1 +1,0 @@
-print("Koza hi! Kaban")
